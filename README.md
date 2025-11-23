@@ -1,4 +1,4 @@
-# BLE & Bluetooth Mesh API - Raspberry Pi to nrf52 Series Controller
+# Bluetooth Low Energy API - Raspberry Pi to nrf52 Series Controller
 
 ## Overview
 
@@ -59,7 +59,7 @@ python main.py
 - `history` - View notification history (last 20 notifications)
 - `quit` - Exit the application
 
-### Option 2: Bluetooth Mesh Mode (Multi-Node Network)
+### Option 2: Bluetooth Mesh Mode (Only Provisions to the node & disconnects)
 
 For Bluetooth Mesh provisioning and multi-node control:
 
